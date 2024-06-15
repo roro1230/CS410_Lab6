@@ -10,7 +10,7 @@ def get_config():
         "model_folder": "model_weights",
         "experiment_name": "translation_experiment",
         "lr": 1e-4,
-        "d_model": 256,
+        "d_model": 512,
         "num_epochs": 10,
         "model_basename": "tmodel_",
         "preload": "latest",
